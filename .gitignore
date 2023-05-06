@@ -1,0 +1,2 @@
+# 只忽略当前目录下的 node_modules 文件
+/node_modules
